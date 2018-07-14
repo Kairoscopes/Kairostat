@@ -1,0 +1,19 @@
+/* h3{
+  float: left;
+  padding-right: 20px;
+} */
+/* div {
+  float: center;
+} */
+.img-align {
+  padding-top:2%;
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  height: 175px;
+  width: 175px;
+  object-fit: cover;
+  border-radius: 50% !important;
+}
