@@ -6,14 +6,17 @@
 ## Demo
 
 ### Login
-![trade simulation](https://raw.githubusercontent.com/Vikrammel/EasyTrage/master/scrumdocs/demo/bad_login_demo.gif)
+![login page](https://raw.githubusercontent.com/Kairoscopes/Kairostat/master/docs/login_demo.png)
+
+### Profile
+![profile page](https://raw.githubusercontent.com/Kairoscopes/Kairostat/master/docs/profile_demo.png)
 
 ## Setup
 
 1. clone repo with git or download contents
 `git clone https://github.com/Kairoscopes/Kairostat.git`
 
-2. Install Docker and docker-compose
+2. Install Docker and docker-compose from [here](https://www.docker.com/community-edition#/download) and [here](https://docs.docker.com/compose/install/) respectively
 
 
 ## Run
